@@ -4,3 +4,9 @@ streamlit
 transformers
 torch
 nltk
+plotly
+PyPDF2
+pandas
+requests
+beautifulsoup4
+urllib3
