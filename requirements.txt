@@ -4,11 +4,3 @@ streamlit
 transformers
 torch
 nltk
-plotly
-string
-PyPDF2
-pandas
-io
-requests
-bs4
-urllib
