@@ -235,3 +235,4 @@ def main_app():
                 file_name="analysis_results.csv",
                 mime="text/csv"
             )
+main_app()
