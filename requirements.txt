@@ -4,6 +4,7 @@ streamlit
 transformers
 torch
 nltk
+plotly
 collections
 string
 PyPDF2
@@ -11,10 +12,4 @@ pandas
 io
 requests
 bs4
-urllib.parse
-nltk.corpus
-plotly.express
-nltk.probability
-nltk.lm
-nltk.lm.preprocessing
-nltk.util
+urllib
