@@ -32,3 +32,7 @@ Puedes instalar las dependencias ejecutando:
 
 ```bash
 pip install -r requirements.txt
+```
+## Ejecución en CMD
+```bash
+streamlit run GPT0_Model.py
